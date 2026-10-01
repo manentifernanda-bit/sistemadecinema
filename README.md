@@ -5,12 +5,12 @@ Hellen Dias
 Fernanda Manenti
 Leticia Somariva
 
-## sobre o sistema
+## Sobre o sistema
 
 Este projeto consiste no desenvolvimento de um Sistema de Gerenciamento de Cinema, desenvolvido com o objetivo de aplicar, na prática, os principais conceitos da Programação Orientada a Objetos (POO).
 O sistema permitirá o gerenciamento de informações relacionadas a filmes, clientes, funcionários, salas, sessões e ingressos.
 
-## objetivo
+## Objetivo
 
 O objetivo do sistema é facilitar o gerenciamento das atividades de um cinema, permitindo realizar operações de cadastro, consulta, atualização e remoção de informações.
 
