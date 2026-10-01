@@ -1,6 +1,6 @@
 # sistemadecinema
 
-# Equipe:
+## Equipe:
 Hellen Dias
 Fernanda Manenti
 Leticia Somariva
