@@ -27,7 +27,7 @@ ArrayList
 
 Os conceitos de herança e polimorfismo serão utilizados para representar diferentes tipos de pessoas e filmes dentro do sistema. Os atributos das classes serão encapsulados por meio de modificadores de acesso e métodos getters e setters.
 
-## Prioncipais Classes
+## Principais Classes
 
 Pessoa:
 Classe base para representar as pessoas relacionadas ao sistema.
